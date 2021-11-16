@@ -1,1 +1,1 @@
-# Bell-Curve-Rating
+# Bell Curve Rating
